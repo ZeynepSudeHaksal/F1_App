@@ -1,4 +1,4 @@
-package com.example.f1_app;
+package com.example.f1_app.model;
 
 import java.util.List;
 

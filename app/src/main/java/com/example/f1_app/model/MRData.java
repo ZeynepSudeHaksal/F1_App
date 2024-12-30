@@ -1,7 +1,7 @@
-package com.example.f1_app;
+package com.example.f1_app.model;
 
 public class MRData {
-    private RaceTable RaceTable;
+    private com.example.f1_app.model.RaceTable RaceTable;
 
     public RaceTable getRaceTable() {
         return RaceTable;
